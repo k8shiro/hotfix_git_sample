@@ -2,3 +2,5 @@
 - feature01 での変更 02
 - hotfix01 での変更 01
 - hotfix01 での変更 02
+- feature02 での変更 01
+- feature03 での変更 01
