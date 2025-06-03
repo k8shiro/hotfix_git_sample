@@ -1,0 +1,2 @@
+# hotfix_git_sample
+Gitにhotfixを当てるときのサンプルリポジトリ
